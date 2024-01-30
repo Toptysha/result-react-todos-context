@@ -1,0 +1,16 @@
+{
+  "toDos": [
+    {
+      "id": "9349",
+      "userName": "John",
+      "toDo": "clear window",
+      "completed": false
+    },
+    {
+      "id": "a235",
+      "userName": "Anton",
+      "toDo": "create model",
+      "completed": true
+    }
+  ]
+}
